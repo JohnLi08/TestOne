@@ -28,5 +28,15 @@
 			<type>2</type>
 			<locationURI>GRAILS_ROOT/1.3.7/projects/test1/plugins</locationURI>
 		</link>
+		<link>
+			<name>lib-global_dsld_support</name>
+			<type>2</type>
+			<location>C:/Users/user2/.groovy/greclipse/global_dsld_support</location>
+		</link>
+		<link>
+			<name>lib-plugin_dsld_support</name>
+			<type>2</type>
+			<location>J:/java/eclipse/plugins/org.codehaus.groovy_1.7.10.xx-20120306-1100-e36-RELEASE/plugin_dsld_support</location>
+		</link>
 	</linkedResources>
 </projectDescription>
